@@ -1,6 +1,6 @@
-# database-libreria
+# Database Libreria
 
-Progetto universitario : Corso di Basi di Dati
+Progetto universitario : Corso di Basi di Dati.
 Il progetto consiste nella progettazione e implementazione di un database per una libreria utilizzando MySQL e SQL.
 
 # Tecnologie e Strumenti
