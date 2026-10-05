@@ -12,12 +12,12 @@ Il progetto consiste nella progettazione e implementazione di un database per un
 -	Normalizzazione BCNF 
 
 # Struttura del progetto
-- `sql/database.sql` - creazione e popolamento del database
-- `sql/query.sql` - operazioni e interrogazioni   sql
-- `diagrams/schema_ER_iniziale.png` - Diagramma E-R Iniaziale
-- `diagrams/schema_ER_iniziale.png` - Diagramma E-R Finale
-- `screenshots/` - esempi di esecuzione delle query SQL
-- `docs/Relazione-Libreria.pdf` - documentazione modificata(per Github) del progetto
+- [`sql/database.sql`](sql/database.sql) - creazione e popolamento del database
+- [`sql/query.sql`](sql/query.sql) - operazioni e interrogazioni   sql
+- [`diagrams/schema_ER_iniziale.png`](diagrams/schema_ER_iniziale.png) - Diagramma E-R Iniaziale
+- [`diagrams/schema_ER_finale.png`](diagrams/schema_ER_finale.png) - Diagramma E-R Finale
+- [`screenshots/`](screenshots/) - esempi di esecuzione delle query SQL
+- [`docs/Relazione-Libreria.pdf`](docs/Relazione-Libreria.pdf) - documentazione modificata(per Github) del progetto
 
 # Funzionalità principali
 Il database gestisce:
